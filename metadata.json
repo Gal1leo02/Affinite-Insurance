@@ -1,0 +1,6 @@
+{
+  "name": "Affinite Insurance",
+  "description": "Enterprise AI-powered insurance marketplace platform connecting customers, branches, insurance companies, and employees in Oman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
